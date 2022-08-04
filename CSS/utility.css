@@ -1,0 +1,29 @@
+.img {
+  width: 100%;
+}
+
+.grid {
+  display: grid;
+}
+.grid--2-cols {
+  grid-template-columns: repeat(2, 1fr);
+}
+.primary-heading {
+  font-size: 6rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #fff;
+}
+.para-text {
+  color: rgb(212, 204, 204);
+  width: 50rem;
+  font-size: 1.6rem;
+}
+
+.mb {
+  margin-bottom: 10rem;
+}
+
+.mb-less {
+  margin-bottom: 5rem;
+}
